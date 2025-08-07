@@ -1,7 +1,7 @@
 # 🌐 Amar Mohammed – Portfolio
 
 Welcome to the source code of my personal portfolio website:  
-**[amarmohammed.github.io](https://amarmohammed.github.io)**  
+**[amarmohammed.github.io](https://am4rknvl.github.io)**  
 Built to showcase my projects, skills, and digital footprint as a full-stack dev & AI-native solopreneur.
 
 ---
