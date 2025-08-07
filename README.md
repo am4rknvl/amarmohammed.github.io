@@ -8,7 +8,7 @@ Built to showcase my projects, skills, and digital footprint as a full-stack dev
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: Vite + React + TypeScript  
+- **Frontend**: Next.js + React + TypeScript  
 - **Styling**: Tailwind CSS  
 - **Deployment**: GitHub Pages  
 - **Design Principles**: Minimal, Fast, Responsive
@@ -24,5 +24,4 @@ Built to showcase my projects, skills, and digital footprint as a full-stack dev
 
 ---
 
-## 📦 Folder Structure (Vite + React)
 
